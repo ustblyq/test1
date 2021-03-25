@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29b5632c-8e7f-48fc-90b3-0b9e8c0461c4" name="Default Changelist" comment="" />
+    <list default="true" id="29b5632c-8e7f-48fc-90b3-0b9e8c0461c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616394824588</updated>
-      <workItem from="1616394826551" duration="1197000" />
+      <workItem from="1616394826551" duration="1365000" />
+      <workItem from="1616487028382" duration="3000" />
     </task>
     <servers />
   </component>
@@ -203,9 +206,36 @@
             </State>
           </value>
         </entry>
+        <entry key="7">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -218,6 +248,7 @@
         <option value="4" />
         <option value="5" />
         <option value="6" />
+        <option value="7" />
       </set>
     </option>
   </component>
